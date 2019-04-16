@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pizza</string>
+    <string name="txt_nome">Nome :</string>
+    <string name="txt_endereco">Endereço :</string>
+    <string name="txt_pedir">PEDIR</string>
+    <string name="txt_compartilhar">compartilhar</string>
+
+    <string-array name="lista_sabores">
+        <item>Calabreza</item>
+        <item>Mista</item>
+        <item>Mussarella</item>
+    </string-array>
+</resources>
